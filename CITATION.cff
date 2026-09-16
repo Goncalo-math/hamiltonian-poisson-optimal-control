@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or its numerical results, please cite it."
+title: "Symplectic Groupoids in Optimal Control Problems: A Numerical Study of Hamiltonian Poisson Integrators"
+type: software
+authors:
+  - family-names: Oliveira
+    given-names: "Gonçalo Inocêncio"
+version: 1.0.0
+date-released: 2026-09-16
+license: MIT
+keywords:
+  - optimal control
+  - Pontryagin maximum principle
+  - Hamiltonian Poisson integrator
+  - symplectic integration
+  - shooting method
+abstract: >-
+  Numerical experiments comparing a groupoid-derived second-order Hamiltonian
+  Poisson integrator with an explicit second-order Runge-Kutta method on five
+  optimal-control boundary-value problems.
